@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dante Velôso
 - 👀 I’m interested in learn and work as much as possible to develop my personal and professional skills
-- 🌱 I’m currently work at Atos Capital as a back end developer, and study Analysis and development of systems
+- 🌱 I’m currently work at Blip as a Software Engineer, and have degree in Analysis and development of systems
 - 💞️ I’m looking to collaborate on the developer community
 - 📫 You can find me on linkedin, discord and some online games hahahah 
 
